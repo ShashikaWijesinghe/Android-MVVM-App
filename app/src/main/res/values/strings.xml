@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android MVVM App</string>
+    <string name="txt_search_posts">Search posts</string>
+    <string name="txt_search_comments">Search comments</string>
+</resources>
