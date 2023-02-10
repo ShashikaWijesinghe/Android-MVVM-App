@@ -1,4 +1,4 @@
-# Journey-Android-Coding-Test
+# Android-MVVM-App
 
 A simple native Android MVVM app which displays posts and associated comments.
 
